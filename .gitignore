@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+
+# Editores
+pyrightconfig.json
+*.sublime-project
+*.sublime-workspace
+
